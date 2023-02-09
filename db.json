@@ -121,6 +121,95 @@
         {
             "name":"So Many Hotels",
             "stars":4
+        },
+        {
+            "name":"Data Entry Hotel",
+            "stars":2
+        },
+        {
+            "name":"Insanity Hotel",
+            "stars":1
+        },
+        {
+            "name":"Best Hotel",
+            "stars":5
+        },
+        {
+            "name":"I Park Hotel",
+            "stars":3
+        },
+        {
+            "name":"Two Seasons Hotel",
+            "stars":2
+        },
+        {
+            "name":"Alaska Hotel",
+            "stars":1
+        },
+        {
+            "name":"New York Hotel",
+            "stars":4
+        },
+        {
+            "name":"Ritz Carlton Hotel",
+            "stars":4
+        },
+        {
+            "name":"Mediocre Hotel",
+            "stars":2
+        },
+        {
+            "name":"Ramada Inn",
+            "stars":1
+        },
+
+        {
+            "name":"Airport Hotel",
+            "stars":1
+        },
+        {
+            "name":"Better Hotel",
+            "stars":3
+        },
+        {
+            "name":"Just Another Hotel",
+            "stars":3
+        },
+        {
+            "name":"Real Hotel",
+            "stars":3
+        },
+        {
+            "name":"Not A Scam Hotel",
+            "stars":3
+        },
+        {
+            "name":"Celina Hotel",
+            "stars":4
+        },
+        {
+            "name":"Terminal Hotel",
+            "stars":3
+        },
+        {
+            "name":"Five Seasons",
+            "stars":5
+        },
+        {
+            "name":"Four Seasons",
+            "stars":4
+        },
+        {
+            "name":"Continental",
+            "stars":4
+        },
+        {
+            "name":"Trump Hotel",
+            "stars":4
+        },
+        {
+            "name":"Hotel Panama",
+            "stars":5
         }
         
     ]
