@@ -1,0 +1,127 @@
+{
+    "test": [
+        {
+            "name":"Hotel California",
+            "stars":4
+        },
+        {
+            "name":"Hotel Alabama",
+            "stars":1
+        },
+        {
+            "name":"Hotel Maryland",
+            "stars":3
+        },
+        {
+            "name":"Amazing Hotel",
+            "stars":5
+        },
+        {
+            "name":"Bad Hotel",
+            "stars":1
+        },
+        {
+            "name":"Crappy Hotel",
+            "stars":2
+        },
+        {
+            "name":"Dumb Hotel",
+            "stars":3
+        },
+        {
+            "name":"Emperial",
+            "stars":2
+        },
+
+        {
+            "name":"Dastardly Hotel",
+            "stars":1
+        },
+        {
+            "name":"Forgoten Hotel",
+            "stars":5
+        },
+        {
+            "name":"Great Hotel",
+            "stars":4
+        },
+        {
+            "name":"Humble Hotel",
+            "stars":1
+        },
+        {
+            "name":"Illiad Hotel",
+            "stars":2
+        },
+        {
+            "name":"Jokes Hotel",
+            "stars":3
+        },
+        {
+            "name":"Klingon",
+            "stars":4
+        },
+        {
+            "name":"Lamar Hotel",
+            "stars":5
+        },
+        {
+            "name":"Moon David Hotel",
+            "stars":1
+        },
+        {
+            "name":"Nobody Home Hotel",
+            "stars":2
+        },
+        {
+            "name":"Operational Hotel",
+            "stars":3
+        },
+        {
+            "name":"Perfect Hotel",
+            "stars":5
+        },
+        {
+            "name":"Quaint Hotel",
+            "stars":4
+        },
+        {
+            "name":"Regards Hotel",
+            "stars":1
+        },
+        {
+            "name":"So Much Room Service",
+            "stars":2
+        },
+        {
+            "name":"Terrible Hotel",
+            "stars":3
+        },
+
+        {
+            "name":"Underground Hotel",
+            "stars":4
+        },
+        {
+            "name":"Vinnie Hotel",
+            "stars":5
+        },
+        {
+            "name":"Winners Hotel",
+            "stars":5
+        },
+        {
+            "name":"XYZ hotel",
+            "stars":1
+        },
+        {
+            "name":"Yessir Hotel",
+            "stars":2
+        },
+        {
+            "name":"So Many Hotels",
+            "stars":4
+        }
+        
+    ]
+}
